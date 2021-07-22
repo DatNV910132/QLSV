@@ -1,0 +1,13 @@
+﻿##Homework 03: Design
+
+**Nguyen Van Dat 20160952 reiew Nguyễn Văn Đạt 20154484
+Hoàn thiện 100%
+
+Nguyễn Văn Đạt 20154484 review Nguyễn Văn Đạt 20160952
+Hoàn thiện 100%
+
+Nguyễn Văn Đạt 20160952 review Nguyễn Trọng Đức 20161113 (vào lúc 23:15 ngày 26/10/2018)
+	chưa sửa đổi 3 use case theo yêu cầu
+
+Nguyễn Văn Đạt 20160952 review Mai Tuấn Đạt 20130827 (vào lúc 23:15 ngày 26/10/2018)
+	chưa sửa đổi 3 use case theo yêu cầu

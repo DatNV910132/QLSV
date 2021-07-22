@@ -1,0 +1,7 @@
+﻿Link tải file Cài đặt
+: https://goo.gl/XgMzKH
+Hướng dẫn cài đặt: Cần cài đặt hệ quản trị cơ sở dữ liệu MySQL.
+Tải các file trong đường dẫn cái đặt
+Import file Database "sis.sql" vào trong hệ quản trị cơ sở dữ liệu với tài khoản: root, mật khẩu: 12345678
+Chạy file chạy trực tiếp sis.jar với tài khoản MSSV: 20154484 và Mật khẩu: 20154484,
+Hoặc MSSV: 20160952 và Mật khẩu: 20160952
